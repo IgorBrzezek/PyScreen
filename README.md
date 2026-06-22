@@ -67,7 +67,7 @@ as `PyScr_YYYYMMDD_HHMMSS`.
 ### Detaching and reattaching
 
 ```
-Ctrl+A  d          Detach from the current session
+Ctrl+A  d          		       Detach from the current session
 python pyscreen.py -r <session_name>   Reattach to a detached session
 python pyscreen.py -ls                 List all active sessions
 ```
@@ -382,4 +382,4 @@ python pyscreen.py -r mytest
 
 ## License
 
-MIT
+GNU GPL 3.0 
