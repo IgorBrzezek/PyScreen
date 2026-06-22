@@ -1,0 +1,13 @@
+__pycache__/
+ANSI_C/
+.pytest_cache/
+archiwum/
+
+*.tmp
+*.temp
+*.bak
+*.zip
+*.ZIP
+plan.md
+
+
